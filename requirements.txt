@@ -1,0 +1,4 @@
+datability-grpc-python-test==0.0.5
+grpcio==1.51.1
+pre-commit==3.0.0
+protobuf==4.21.12
